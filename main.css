@@ -1,0 +1,185 @@
+.headPic{
+top: 33px;
+left: 558px;
+width: 164px;
+height: 48px;
+border: 1px solid #707070;
+opacity: 1;
+
+}
+.nav1{
+    padding-top:  45px;
+left: 249px;
+width: 47px;
+height: 26px;
+text-align: left;
+font: normal normal 600 19px/26px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.nav2{
+    padding-top:  45px;
+left: 356px;
+width: 45px;
+height: 26px;
+text-align: left;
+font: normal normal 600 19px/26px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.nav3{
+    padding-top:  45px;
+left: 461px;
+width: 45px;
+height: 26px;
+text-align: left;
+font: normal normal 600 19px/26px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.nav4{
+    padding-top:  45px;
+left: 5px;
+width: 45px;
+height: 26px;
+text-align: left;
+font: normal normal 600 19px/26px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.nav5{
+    padding-top:  45px;
+left: 356px;
+width: 45px;
+height: 26px;
+text-align: left;
+font: normal normal 600 19px/26px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.nav6{
+    padding-top:  45px;
+left: 356px;
+width: 45px;
+height: 26px;
+text-align: left;
+font: normal normal 600 19px/26px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.nav7{
+    padding-top:  45px;
+left: 356px;
+width: 45px;
+height: 26px;
+text-align: left;
+font: normal normal 600 19px/26px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.nav8{
+    padding-top:  45px;
+left: 356px;
+width: 45px;
+height: 26px;
+text-align: left;
+font: normal normal 600 19px/26px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.aText{
+    text-align: left;
+font: normal normal 900 40px/54px Nunito Sans;
+letter-spacing: 0px;
+
+
+}
+#centext{
+    text-align: left;
+font: normal normal bold 35px/47px Nunito Sans;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.tcenter{
+padding-left: 346px;
+margin-top: 140px;
+}
+.boxs{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 18px;
+
+}
+section{
+    background: #F8FAFC 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+#picT{
+font-size: 18px;
+color: rgb(0, 0, 0);
+font-family: sans-serif;
+font-weight: bold;
+}
+.picD{
+text-align: justify;
+text-align-last: justify;
+}
+#picTT{
+    font-size: 24px;
+    font-weight: bold;
+}
+footer{
+    background: #F8FAFC 0% 0% no-repeat padding-box;
+box-shadow: 0px 16px 48px #00000029;
+border-radius: 42px;
+opacity: 1;
+}
+#footerB1{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 0px #00000029;
+border-radius: 30px;
+opacity: 1;
+
+}
+#smicon{
+    background: transparent url('asset/Hman.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+left: 211px;
+width: 42px;
+height: 43px;
+margin-left: 86px;
+}
+#IconT1{
+    font: normal normal 600 13px/18px Nunito Sans;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+margin-left: 135px;
+margin-top: -34px;
+}
+/* #fvstar{
+    background: transparent url('asset/sixstar.png') 0% 0% no-repeat padding-box;
+opacity: 2;
+width: 440px;
+height: 440px;
+margin-left: 200px;
+margin-top: -34px;} */
+.colomn{
+    float: left;
+  width: 1.33%;
+  padding: 5px;
+}
+body{
+    background: #F8FAFC 0% 0% no-repeat padding-box;
+opacity: 1; 
+
+}
